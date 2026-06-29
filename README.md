@@ -70,11 +70,6 @@ The dashboard provides insights into:
 
 ---
 
-## 📸 Preview
-
-_Add your dashboard screenshot here_
-
----
 
 ## 📌 Future Improvements
 
